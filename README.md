@@ -103,7 +103,7 @@ It also integrates **Text Vectorization** features along with image inputs to im
 ---
 
 
-## 💻 How to Run
+##  How to Run
 
 1. Clone the repository
 2. Install dependencies:
